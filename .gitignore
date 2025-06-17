@@ -1,0 +1,28 @@
+# Python virtual environment
+venv/
+.env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE settings
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Large files
+*.dylib
+*.so
+*.dll
